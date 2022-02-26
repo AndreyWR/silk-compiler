@@ -1,0 +1,24 @@
+BigBang{
+	sngI  id ;
+	sngI  id ;
+	sngF  id ;
+	sngI  id ;
+	sngB  id ;
+}
+Entropia { 
+
+	while ( id <= id) {
+		id = id - id;
+	}
+	
+	for ( id = id; id <= id; id = id + id){
+		id = id + id * id / id;
+	}
+
+	if( id == id ){
+		id = id / id;
+	}
+	else{
+
+	} 
+}

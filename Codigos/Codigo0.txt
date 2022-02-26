@@ -1,0 +1,8 @@
+BigBang{
+	sngI  id ;
+	sngI  id ;
+	sngF  id ;
+	sngI  id ;
+	sngB  id ;
+}
+Entropia{

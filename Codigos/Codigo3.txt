@@ -1,0 +1,22 @@
+BigBang{
+	sngI  A = 1;
+	sngI  B = 1;
+	sngI  Cabo = 1;
+	sngI  Var = 1;
+} 
+Entropia{
+	if(Var == true){
+    		Resultado = A + B + C; 	
+	}else{
+    		Resultado = C - B - A;	
+	}
+	print(Resultado ); $$ Imprime Resultado
+	
+	while(A<Resultado && b<5){
+    		for(i=0;i<Resultado;i = i +1){
+    			print(i);
+		}
+		print(A);
+    		A = A + b + 5;
+	}
+}

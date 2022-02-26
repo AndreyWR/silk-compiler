@@ -1,0 +1,17 @@
+BigBang{
+	sngI  A = 1;
+	sngI  Awhile = 1;
+	sngF  B = 56.45;
+	sngI  C = 2; 
+	sngB  Resultado = true;
+}
+Entropia{
+    if(A != 0 && A != 0){
+    	Resultado = A + AB + C;
+    }else{
+    	Resultado = C - AB - A;
+    }
+    for( a =0; a<10; a=a+1){
+        
+    }
+}

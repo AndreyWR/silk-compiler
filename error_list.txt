@@ -1,0 +1,11 @@
+0  Código vazio
+1  Não existe_produção_na_gramática
+2  faltou ; ao fim da linha
+3  faltou { na linha
+4  faltou } na linha
+5  faltou ( na linha
+6  faltou ) na linha
+7  faltou operador na linha 
+8  faltou operando na linha 
+9  ID invalido na linha
+10 Faltou IF para o else na linha
